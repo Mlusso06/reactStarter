@@ -1,2 +1,0 @@
-# reactStarter
-React Starter Template
